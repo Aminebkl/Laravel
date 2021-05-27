@@ -1,0 +1,14 @@
+.navtxt{
+    color: white;
+}
+
+.navtxt:hover{
+    background-color: rgba(255, 255, 255, 0.568);
+    color: black;
+}
+.navtxt:focus{
+    color: white !important;
+}
+.navtxt:active{
+    color: black !important;
+}
